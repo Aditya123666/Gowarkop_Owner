@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\IAK ITB\SISTER\Grid\GoWarkopOwner\GoWarkopOwner-master\GoWarkopOwner.iml" filepath="C:\IAK ITB\SISTER\Grid\GoWarkopOwner\GoWarkopOwner-master\GoWarkopOwner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoWarkopOwner-master.iml" filepath="$PROJECT_DIR$/GoWarkopOwner-master.iml" />
+      <module fileurl="file://C:\IAK ITB\SISTER\Grid\GoWarkopOwner\GoWarkopOwner-master\Go_api.iml" filepath="C:\IAK ITB\SISTER\Grid\GoWarkopOwner\GoWarkopOwner-master\Go_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
